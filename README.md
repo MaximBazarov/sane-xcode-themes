@@ -3,10 +3,10 @@
 Simple, sleek themes that deliver essential information without the visual clutter. Less is more!
 
 ## Themes:
-    - Sane Dark (Zed) is a theme that utilizes the Zed Extended open-source font. Although it's designed with the Zed font in mind, the theme's aesthetics should work with your preferred font, ensuring a visually pleasing coding experience.
+- Sane Dark (Zed) is a theme that utilizes the Zed Extended open-source font. Although it's designed with the Zed font in mind, the theme's aesthetics should work with your preferred font, ensuring a visually pleasing coding experience.
 
 ### Work in progress 
-    - [WIP] Sane Light ...
+- [WIP] Sane Light ...
 
 ## Setup
 
