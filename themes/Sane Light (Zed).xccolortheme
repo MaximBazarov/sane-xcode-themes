@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.0940149 0.532806 0.417851 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>Zed-Mono-Extended - 13.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0 0.443405 0.807223 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>Zed-Mono-Extended - 13.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.0940149 0.532806 0.417851 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>Zed-Mono-Extended - 13.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.179057 0.186387 0.2 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>Zed-Mono-Extended - 13.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.179057 0.186387 0.2 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>Zed-Mono-Extended - 13.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>1 1 0.976471 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -30,44 +30,46 @@
 	<string>0.823137 0.884606 1 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
+	<key>DVTFontSizeModifier</key>
+	<integer>1</integer>
 	<key>DVTLineSpacing</key>
 	<real>1.2000000476837158</real>
 	<key>DVTMarkupTextBackgroundColor</key>
-	<string>0.18856 0.195 0.22444 1</string>
+	<string>1 1 0.94 1</string>
 	<key>DVTMarkupTextBorderColor</key>
-	<string>0.253475 0.2594 0.286485 1</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>SFMono-Regular - 13.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
-	<string>1 1 1 1</string>
+	<string>0.1 0.1 0.1 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
-	<string>.SFNS-RegularItalic - 12.0</string>
+	<string>Zed-Mono-Extended-Italic - 14.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>1 1 1 0.7</string>
+	<string>0.45 0.45 0.45 1</string>
 	<key>DVTMarkupTextLinkColor</key>
-	<string>0.33 0.247124 0.894195 1</string>
+	<string>0.0915729 0.342243 0.62813 1</string>
 	<key>DVTMarkupTextLinkFont</key>
-	<string>.SFNS-Regular - 12.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTMarkupTextNormalColor</key>
-	<string>1 1 1 1</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTMarkupTextNormalFont</key>
-	<string>.SFNS-Regular - 12.0</string>
+	<string>Zed-Mono-Extended - 14.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
-	<string>1 1 1 0.5</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTMarkupTextOtherHeadingFont</key>
-	<string>.SFNS-Regular - 16.8</string>
+	<string>Zed-Mono-Extended - 19.2</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
-	<string>1 1 1 1</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
-	<string>.SFNS-Regular - 28.8</string>
+	<string>Zed-Mono-Extended - 32.2</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
-	<string>1 1 1 1</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
-	<string>.SFNS-Regular - 21.6</string>
+	<string>Zed-Mono-Extended - 24.4</string>
 	<key>DVTMarkupTextStrongColor</key>
-	<string>1 1 1 1</string>
+	<string>0.2 0.2 0.2 1</string>
 	<key>DVTMarkupTextStrongFont</key>
-	<string>.SFNS-Bold - 12.0</string>
+	<string>Zed-Mono-Bold-Extended - 14.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
 	<string>0.403922 0.372549 1 1</string>
 	<key>DVTScrollbarMarkerBreakpointColor</key>
@@ -159,74 +161,74 @@
 		<key>xcode.syntax.string</key>
 		<string>0.133333 0.545098 0.133333 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.596078 0.764706 0.47451 1</string>
+		<string>0.0915729 0.342243 0.62813 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.character</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.number</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>Zed-Mono-Extended-Italic - 13.0</string>
+		<string>Zed-Mono-Extended-Italic - 14.0</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>Zed-Mono-Extended-Italic - 13.0</string>
+		<string>Zed-Mono-Extended-Italic - 14.0</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>Zed-Mono-Extended-Italic - 13.0</string>
+		<string>Zed-Mono-Extended-Italic - 14.0</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>Zed-Mono-Extended-Italic - 13.0</string>
+		<string>Zed-Mono-Extended-Italic - 14.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>Zed-Mono-Extended-Italic - 13.0</string>
+		<string>Zed-Mono-Extended-Italic - 14.0</string>
 		<key>xcode.syntax.string</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 		<key>xcode.syntax.url</key>
-		<string>Zed-Mono-Extended - 13.0</string>
+		<string>Zed-Mono-Extended - 14.0</string>
 	</dict>
 </dict>
 </plist>
